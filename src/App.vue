@@ -141,6 +141,7 @@ export default {
 
       try {
         const response = await fetch(url, {
+          mode: 'no-cors',
           method: 'POST',
           headers: headers,
           body: body,
