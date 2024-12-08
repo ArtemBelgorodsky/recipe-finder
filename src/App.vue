@@ -120,7 +120,7 @@ export default {
         'Content-Type': 'application/json',
         Accept: 'application/json',
         Authorization:
-          'Bearer eyJjdHkiOiJqd3QiLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.p4ivBePSONV9oB3TrzXsJaZvT_ysUjBtJHK9t7e9Jti9BHxSS5W_eRrxZRNJpKUUHcfVHK5mwfqnRR-zRD6PtoGaDbOPhYu3RZ8Z-oRHCjmvoay0erzX6-JqcDNBx2SM_Yj0sTcee79Nfo8a2lAbJcMGBY-OluVqKvtGXdjYoJinYaujD0ODD_H-D_hZ4RjTISiT3J10hMdAXwIAhZols6xBK6NG7KEKxaCIkUexWC2FkZF6ExRab41nbC6YjZ0vn68G358V_E2m5hXGt9bUxGZDW9I-m2Zza9GfL7Nax9RPH4LpcX8PwDoDi2--fxPUcr94P_2lrQQUcdD0BMHBSg.fN8b7tIhtQDwWr0wVfk_Qw.p1D6V6VGUKW-MD_0zFED631qhhwWKDxjjQqFMpmY2F2DbPKSSTPJjTab--SB6anyRxObAqZVXi6WIPAYY3PSI-5mDWvQkGN7MUE9Dvqa5Ep32QrK01TDkkvyPl9gxGrS6AGnZ5gB6bCGF8Gc3Ae_aakpaSqBIKCrffeMDbaQ0q-cDQ4Iu-XJjII78RCUoBlNdXaek1CyVYk-jXIXsgpkK_2zjHbGVNYXLWTc7zXenJvKSiI3o6VMwVr8Jibh4X7fYB_mKBNwTGk9voHW43LpCQ14ORkyFO3iT0b-nHgXtxtiFOrETpBvvXYqKvXMvg_T9OOWugk5nmOzHJNyyE6HcfokiwRrzZ1_L63RXALyKBjDHZ26EGo6O7-gc-ZdBH3Ltcp-la0vzbQhALd9arK4rMjBUeJj711WZvQv1tW5cDfZEO2aZgo4jgJwgkyGyfGxmpsBqEqyoOlB4mCvpnahMx4JMGOZIzxjvcQOAPvkwvZ1qhUALPJ9Lm8y_p9TRZj2uOcJCvFz51URESMU06HoxZEqOnO_OhtRUqByJIqWacj7X5oEwX9vmXywSUK9HGEivh1AKY1lgV31qiqHUQ-kWmP9dm-B5lS-nDROXvzxD8Zpy5dwrmONQ6tqj3LFhp547banXnZPjsXdTS5Ias-cIU0XDoH8vdJbNEXhGpu6f8Rdr225svjF9iwN2Xjlx1cHsPeOld5jkk2BlzfQp9gcmje9u7El8v41cp_vtyowV1Q.4NrG9v47FWfLs-1si4N8Yf9I94zGGa-4p0ZPc0lcQBQ',
+          'Bearer eyJjdHkiOiJqd3QiLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.rLINxoiYqOQw_UPd92PCfGcLirLi9aKlneJgfCxgQSnYQCaFAd7tNmLOhdNiZ8GFhMJNvrSW5mXtCP9F2pOc23DAPcoS3N7FCCJAXzRwyeFA1Aw6v1abaSZ_XrcRovi1szhN0QxGuucYFscEgaELMOQ07jWR5SLupeSS_dC7m1no2XuF5_zamfrvfPG7ib-n_fSfILTs9kfRBsZZ1--kmxKPceyN1UhNGyrzsNjkidFGcLaGEZundRsbHy_KRrnUToiQ76etE11thV7Z6FlEZ0STEllNJMhmeH04N8FIgrCtgcV6fEiVH_epEyS7pqFItl241H93k5BCASmIQ0m9WA.H2URUKrQE3XOkzsJwgyvnA.19ft4BZS5YRP93eEGUwrFk1m4nt9TbFoE5s609ufDUJWW0yQ4kjAqGVTxSlewWL13m_Ifv4iUQ0Tg5r-VF_CYGYGKIzZ6coEBq1wyPpE-KW4oVt0yMCX7yjkQ3rNWb1xX5UuuNmkb9--DH_r360ABFUhoPOwZquh4ipSqT3WSDTwJRYz00TLvf2Ojd_g1apUopwxmQtonXj5b82cEqM7s0PyEXH8uMBtTltgUCXx7qTpP6bzPOHr_tOnj_elSLGjGTSsD0VJSeSobQm0d1x13qKQzzQiM_xDxUdeU0IWfFWraSzjxui6gYNxIqBOr4bslFOl8mQid9g-2niTUX1l1R8N_ltXzQtEkUc5M32AxnK_o4JUNtE3hB8EwK-EemfsWRZZ4T9isIjAx51fmawiNNt6oUKStmRQ6Jw3sM9wIgw7lrw2G2WuaGg30SajCDKC0NjxxX5gEDo8dF5YbI8IDpF81OIvLHd0HLzXW6o2zEZQ2tJp5TK_7Ea9wlOS3Ycg0JqQFcvJhR_X1rfC6RRFJEUwTkWY5oX1WozN9uzyUlxTcDRAd58FJNQThC4iEEdlB-9v5y8JvoPv_zluiRWBV15Q__EHWxku0GynG5_y4S2Rs738CqE-KwFp7IBWrnvGgEbK2DuFXaNEoPQb8-a5e8X4rYQ_OuhImtLkP7NoO403OsnbKftgRFV08pHGY6qBRurS-wQUrirNTHEFQPl6MP2t3VMsgtlRJQRaseKn030.OzKh5G1xohdS4m3oC4f5MdRjoFOf2jv7v9g0-wrwhXI',
       };
 
       const body = JSON.stringify({
@@ -136,12 +136,10 @@ export default {
           },
         ],
         stream: false,
-        update_interval: 0,
       });
 
       try {
         const response = await fetch(url, {
-          mode: 'no-cors',
           method: 'POST',
           headers: headers,
           body: body,

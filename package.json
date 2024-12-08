@@ -12,6 +12,8 @@
     "-": "^0.0.1",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
+    "gigachat-node": "^2.1.4",
+    "openai": "^4.76.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
     "vue": "^3.5.13"
